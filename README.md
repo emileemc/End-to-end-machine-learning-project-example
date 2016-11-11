@@ -6,3 +6,5 @@ This project aims to introduce to ML beginners the following subject:
 - how to work a regression predictive problem end-to-end
 - how to transform data in order to improve model performance
 - how to tune ML algorithms to also improve performance
+
+http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html
